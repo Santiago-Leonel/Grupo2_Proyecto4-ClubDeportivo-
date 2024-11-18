@@ -142,7 +142,7 @@ namespace elclub
 				foreach (Entrenador elem in club.listaEntrenadores)
 				{
 					
-					if (elem.Dni == dni && elem.Apellido == apellido)// puse para comparar dos datos al momento de estar agreagando al entrenador
+					if (elem.Dni == dni && elem.Apellido == apellido)
 					{
 						Console.WriteLine("El entrenador ingresado ya existe, intente nuevamente con otro entrenador.");
 						entrenadorExiste = true;
@@ -317,7 +317,7 @@ namespace elclub
 					try
 					{		
 			
-						if (depo.CupoCat == depo.CantInscriptos) // saque el decremento de la cantidad de cupos, solo deje el incremento de cantidad de inscriptos
+						if (depo.CupoCat == depo.CantInscriptos)
 
 						{
 							Console.WriteLine(" ");
