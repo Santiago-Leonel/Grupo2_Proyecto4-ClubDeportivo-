@@ -1,0 +1,20 @@
+C:\Users\Usuario\Documents\Proyecto_Club1\ElClub_UNAJ\elclub\obj\Debug\elclub.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Proyecto_Club1\ElClub_UNAJ\elclub\bin\Debug\elclub.exe
+C:\Users\Usuario\Documents\Proyecto_Club1\ElClub_UNAJ\elclub\bin\Debug\elclub.pdb
+C:\Users\Usuario\Documents\Proyecto_Club1\ElClub_UNAJ\elclub\obj\Debug\elclub.exe
+C:\Users\Usuario\Documents\Proyecto_Club1\ElClub_UNAJ\elclub\obj\Debug\elclub.pdb
+C:\Users\Usuario\Desktop\PROYECTO GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\bin\Debug\elclub.exe
+C:\Users\Usuario\Desktop\PROYECTO GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\bin\Debug\elclub.pdb
+C:\Users\Usuario\Desktop\PROYECTO GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\obj\Debug\elclub.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTO GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\obj\Debug\elclub.exe
+C:\Users\Usuario\Desktop\PROYECTO GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\obj\Debug\elclub.pdb
+C:\Users\santi\OneDrive\Documents\SharpDevelop Projects\PROYECTO GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\bin\Debug\elclub.exe
+C:\Users\santi\OneDrive\Documents\SharpDevelop Projects\PROYECTO GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\bin\Debug\elclub.pdb
+C:\Users\santi\OneDrive\Documents\SharpDevelop Projects\PROYECTO GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\obj\Debug\elclub.csprojResolveAssemblyReference.cache
+C:\Users\santi\OneDrive\Documents\SharpDevelop Projects\PROYECTO GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\obj\Debug\elclub.exe
+C:\Users\santi\OneDrive\Documents\SharpDevelop Projects\PROYECTO GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\obj\Debug\elclub.pdb
+C:\Users\santi\OneDrive\Documents\SharpDevelop Projects\PROYECTO (Modificado) GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\bin\Debug\elclub.exe
+C:\Users\santi\OneDrive\Documents\SharpDevelop Projects\PROYECTO (Modificado) GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\bin\Debug\elclub.pdb
+C:\Users\santi\OneDrive\Documents\SharpDevelop Projects\PROYECTO (Modificado) GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\obj\Debug\elclub.csprojResolveAssemblyReference.cache
+C:\Users\santi\OneDrive\Documents\SharpDevelop Projects\PROYECTO (Modificado) GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\obj\Debug\elclub.exe
+C:\Users\santi\OneDrive\Documents\SharpDevelop Projects\PROYECTO (Modificado) GRUPO 2 - EL CLUB\ElClub_UNAJ\elclub\obj\Debug\elclub.pdb
